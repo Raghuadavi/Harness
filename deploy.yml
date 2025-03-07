@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: "satyadockerhub07/netflix:v1"  # Updated to use sekhar1913/my-app
+          image: "raghuadavi/harness:new"  # Updated to use sekhar1913/my-app
           ports:
             - containerPort: 8080
 ---
